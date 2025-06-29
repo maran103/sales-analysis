@@ -37,7 +37,13 @@ This repository contains a Power BI project that demonstrates interactive data v
 
 > You can add a screenshot of your dashboard here  
 > Example:  
-> ![Dashboard Preview](images/preview.png)
+
+> ![Screenshot (63)](https://github.com/user-attachments/assets/a442f49b-01db-42f2-a853-9fd2fe23685f)
+>
+> ![Screenshot (64)](https://github.com/user-attachments/assets/1470427d-77bd-476d-90e1-82d820950b53)
+
+
+> 
 
 ---
 
